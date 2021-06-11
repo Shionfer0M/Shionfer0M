@@ -9,7 +9,7 @@ Habilidades: Análisis de Datos, Base de Datos, React Native, HTML, CSS, GIT, C+
 
 <h3 align="left">Portafolio:</h3>
 <p align="left">
-<a href="/https://shionfer0m.github.io/portafoliofernando/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://shionfer0m.github.io/portafoliofernando/" height="30" width="40" /></a>
+<a href="https://shionfer0m.github.io/portafoliofernando/"/>Presione aquí</a>
 </p>
 
 <h3 align="left">Lenguajes de programación y más:</h3>
